@@ -1,0 +1,40 @@
+.pesan {
+    overflow:auto; 
+    width:70%; 
+    height:500px; 
+    margin-left:5%;
+    margin-right:35%;
+}
+
+.form {
+    width:50%;
+    height:425px;
+    margin-left:5%;
+    margin-right:35%;
+}
+
+#atas {
+	border-bottom-width: 2px;
+	border-bottom-style: ridge;
+	border-bottom-color: #CCC;
+	margin-top: 10px;
+	margin-right: 1px;
+	margin-bottom: 2px;
+	margin-left: 0px;
+	padding-bottom: 1px;
+	color: #FFA500;
+}
+                
+#pesan {
+	padding-right: 1px;
+	padding-left: 0px;
+	margin-bottom: 10px;
+	color: #080808;
+}
+
+.waktu {
+	float: right;
+	color: #871214;
+	font-family: Arial;
+	font-size: 9px;
+}
